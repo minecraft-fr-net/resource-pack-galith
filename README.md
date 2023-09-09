@@ -9,9 +9,13 @@
 
 ### Fût de bière
 
+![fut de bière](./assets/minecraft/textures/block/barrel_side.png)
+
 Remplace le tonneau
 
 ### Orge
+
+![orge](./assets/minecraft/textures/block/beetroots_stage3.png)
 
 Remplace les betteraves
 
