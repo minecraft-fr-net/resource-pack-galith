@@ -10,6 +10,12 @@ Le resource pack dispose d'un ensemble de bloc et item pour retrouver les items 
 
 ## Utilisation
 
+⚠️**With EssentialX**, il faut préfixer la commande de give de la manière suivante : 
+
+```
+/minecraft:give ...
+```
+
 ### Blocs
 
 #### Fût de bière
@@ -36,13 +42,9 @@ Remplace le skin du bloc `grey_shulker_box`
 
 Remplace le skin du bloc `black_shulker_box`
 
+---
+
 ### items
-
-⚠️**With EssentialX**, il faut préfixer la commande de give de la manière suivante : 
-
-```
-/minecraft:give ...
-```
 
 #### Pièce d'or
 
