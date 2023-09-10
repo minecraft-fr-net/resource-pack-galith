@@ -59,7 +59,9 @@ Remplace le skin de l'alambic
 
 ![bière](./assets/minecraft/textures/item/honey_bottle.png)
 
-Remplace le skin de `honey_bottle`
+```
+/give @s minecraft:honey_bottle{CustomModelData:7503,display:{Name:"{\"text\":\"Bière\",\"italic\":\"false\"}"}}
+```
 
 ### Rack
 
