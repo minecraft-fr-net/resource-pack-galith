@@ -6,6 +6,7 @@ Le resource pack dispose d'un ensemble de bloc et item pour retrouver les items 
 
 - Télécharger les fichiers au format .zip
 - Installer le [Datapack Racks](https://www.planetminecraft.com/data-pack/tool-rack-hang-your-tools-and-weapons/) pour une meilleur expérience
+- Il est conseillé d'ajouter le [Gerodoku](https://www.planetminecraft.com/texture-pack/gerudoku-1433368/) pour être au plus proche du texture pack de l'époque
 
 ## Utilisation
 
