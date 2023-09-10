@@ -72,7 +72,7 @@ Remplace le skin du bloc `black_shulker_box`
 
 #### Bière
 
-![bière](./assets/minecraft/textures/item/honey_bottle.png)
+![bière](./assets/minecraft/textures/item/biere.png)
 
 ```
 /give @s minecraft:honey_bottle{CustomModelData:7503,display:{Name:"{\"text\":\"Bière\",\"italic\":\"false\"}"}}
